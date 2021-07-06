@@ -1,2 +1,2 @@
 # Cardio-NN-Classification
-Developing a Neural Network with Keras for Binary Classification
+Developing a Neural Network model with Keras for Binary Classification
