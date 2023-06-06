@@ -6,4 +6,4 @@ The approach is very basic: using Lazy Predict to classify with many models the 
 
 The best performing model is then automatically selected and implemented to do predictions.
 
-The model is deployed as an easy-to-use WebApp using Streamlit and can be open at the following link: https://cardiovasculardisease-medical-treatment.streamlit.app/
+The model is deployed as an easy-to-use WebApp using Streamlit and can be open at the following link: https://cardiovascular-disease-medical-treatment.streamlit.app/
